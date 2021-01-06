@@ -1,0 +1,11 @@
+add_rules("mode.debug", "mode.release")
+
+target("removedigit")
+    set_kind("binary")
+    add_includedirs("include/greedy/")
+    add_files("src/greedy/RemoveDigits.cpp")
+    add_deps("libremovedigit")
+target("libremovedigit")
+    set_kind("static")
+    add_files("lib/greedy/RemoveDigits.cpp")
+    add_includedirs("include/greedy/")

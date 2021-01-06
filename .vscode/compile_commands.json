@@ -1,0 +1,61 @@
+[
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/banker", "-o", "build/.objs/libbank/linux/x86_64/release/lib/banker/Banker.cpp.o", "lib/banker/Banker.cpp"],
+  "file": "lib/banker/Banker.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/greedy", "-o", "build/.objs/assign/linux/x86_64/release/src/greedy/Assign.cpp.o", "src/greedy/Assign.cpp"],
+  "file": "src/greedy/Assign.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/greedy", "-o", "build/.objs/removedigit/linux/x86_64/release/src/greedy/RemoveDigits.cpp.o", "src/greedy/RemoveDigits.cpp"],
+  "file": "src/greedy/RemoveDigits.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/greedy", "-o", "build/.objs/libassign/linux/x86_64/release/lib/greedy/AssignCookie.cpp.o", "lib/greedy/AssignCookie.cpp"],
+  "file": "lib/greedy/AssignCookie.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/greedy", "-o", "build/.objs/libassign/linux/x86_64/release/lib/greedy/WiggleSubsequence.cpp.o", "lib/greedy/WiggleSubsequence.cpp"],
+  "file": "lib/greedy/WiggleSubsequence.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/greedy", "-o", "build/.objs/wiggle/linux/x86_64/release/src/greedy/wiggle.cpp.o", "src/greedy/wiggle.cpp"],
+  "file": "src/greedy/wiggle.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/greedy", "-o", "build/.objs/libwiggle/linux/x86_64/release/lib/greedy/WiggleSubsequence.cpp.o", "lib/greedy/WiggleSubsequence.cpp"],
+  "file": "lib/greedy/WiggleSubsequence.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-o", "build/.objs/pageReplace/linux/x86_64/release/src/page/PageReplace.cpp.o", "src/page/PageReplace.cpp"],
+  "file": "src/page/PageReplace.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/banker", "-o", "build/.objs/testBank/linux/x86_64/release/src/TestBack.cpp.o", "src/TestBack.cpp"],
+  "file": "src/TestBack.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/page", "-o", "build/.objs/libpage/linux/x86_64/release/lib/page/PageReplace.cpp.o", "lib/page/PageReplace.cpp"],
+  "file": "lib/page/PageReplace.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/content", "-o", "build/.objs/main/linux/x86_64/release/src/fifo/main.cpp.o", "src/fifo/main.cpp"],
+  "file": "src/fifo/main.cpp"
+},
+{
+  "directory": "/home/m7/project/algorithm/ss",
+  "arguments": ["/usr/bin/ccache", "/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude/page", "-Iinclude/content", "-o", "build/.objs/libcontent/linux/x86_64/release/lib/content/context.cpp.o", "lib/content/context.cpp"],
+  "file": "lib/content/context.cpp"
+}]
