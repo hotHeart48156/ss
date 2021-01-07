@@ -1,11 +1,15 @@
-#include<string>
-class RemoveDigits
+#include <string>
+#include<stack>
+#include<vector>
+namespace greedy
 {
-private:
-    /* data */
-public:
-    RemoveDigits(/* args */);
-    std::string removeKDigits(std::string num,int k);
-};
+    class RemoveDigits
+    {
+    private:
+        /* data */
+    public:
+        RemoveDigits(/* args */);
+        std::string removeKDigits(std::string num, int k);
+    };
 
-
+} // namespace greedy
